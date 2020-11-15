@@ -2,6 +2,30 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
   <file source-language="en-US" datatype="plaintext" original="ng2.template">
     <body>
+      <trans-unit id="0270df35109dbd06f5a8b11c6999ef7d0583fff2" datatype="html">
+        <source>Ups! Page not found...</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/page-not-found/page-not-found-page.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <note priority="1" from="description">Page not found title</note>
+      </trans-unit>
+      <trans-unit id="c12590e2cc30a4e69c24557e77343b05cae79a10" datatype="html">
+        <source>The link you pressed is invalid or something is broken?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/page-not-found/page-not-found-page.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">page not found subtitle</note>
+      </trans-unit>
+      <trans-unit id="8d9f430ea283c4e1ae2fa56c6673cd77b2496f06" datatype="html">
+        <source>Back to Home!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/page-not-found/page-not-found-page.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <note priority="1" from="description">Back to home button</note>
+      </trans-unit>
       <trans-unit id="1b9594aec50f682cfe82cb7e89db42a687e908b0" datatype="html">
         <source>Member Login</source>
         <context-group purpose="location">
