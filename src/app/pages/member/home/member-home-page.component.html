@@ -1,1 +1,116 @@
-<h1>Member Home</h1>
+<div class="row justify-content-center mt-md-5 mt-lg-5">
+    <div class="col-lg-10 col-md-12">
+        <!-- Title -->
+        <h1 class="text-md-center">Member Profile</h1>
+        <p class="text-md-center text-muted font-italic">Here is all your member details that we have.</p>
+
+        <!-- Member active status -->
+        <div class="mb-4 text-center font-italic">
+            <h4>
+                <span class="text-success font-weight-bold">
+                    You are Active <span class="font-small">(Now - 31-12-2021)</span>
+                </span>
+            </h4>
+            <h4>
+                <span class="text-danger font-weight-bold">
+                    You are Inactive <span class="font-small">(Now - 31-12-2021)</span>
+                </span>
+            </h4>
+        </div>
+
+        <!-- Member information -->
+        <div class="mt-4">
+            <h4 class="font-italic">Profile details</h4>
+            <form>
+                <div class="form-row">
+                    <div class="col-3 mb-3">
+                        <label>Member ID</label>
+                        <input type="number" class="form-control" value="232" disabled>
+                    </div>
+                    <div class="col-9 mb-3">
+                        <label>Full name</label>
+                        <input type="text" class="form-control" value="Martin Erik Rieland Bisgaard" disabled>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="col-6 mb-3">
+                        <label>Mail</label>
+                        <input type="email" class="form-control" value="m@m.com" disabled>
+                    </div>
+                    <div class="col-6 mb-3">
+                        <label>Phone</label>
+                        <input type="tel" class="form-control" value="+45XXXXXXXX" disabled>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="col-6 mb-3">
+                        <label>First registered</label>
+                        <input type="date" class="form-control" value="2019-11-04" disabled>
+                    </div>
+                    <div class="col-6 mb-3">
+                        <label>Date of birth</label>
+                        <input type="date" class="form-control" value="1994-10-18" disabled>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="col mb-3">
+                        <button type="submit" class="btn btn-primary mr-3">Update details</button>
+                        <button type="submit" class="btn btn-secondary mr-3">Change Mail</button>
+                        <button type="submit" class="btn btn-secondary mr-3">Change Password</button>
+                    </div>
+                </div>
+            </form>
+            <hr>
+        </div>
+
+
+        <!-- Membership log -->
+        <div class="mt-4">
+            <h4 class="font-italic">Membership log</h4>
+            <div class="list-group mt-3">
+                <div class="list-group-item list-group-item-action">
+                    <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1">Membership 2021</h5>
+                        <p class="m-0"><span class="badge badge-danger badge-pill">Missing Payment</span></p>
+                    </div>
+                    <p class="mb-1">This years membership includes a t-shirt and stickers.</p>
+                    <div class="d-flex w-100 justify-content-between">
+                        <small>This membership runs from 01-01-2021 to 31-12-2021</small>
+                        <small>Price: 100,00 DKK</small>
+                    </div>
+                </div>
+                <div class="list-group-item list-group-item-action">
+                    <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1">Membership 2020</h5>
+                        <p class="m-0"><span class="badge badge-success badge-pill">Paid</span></p>
+                    </div>
+                    <p class="mb-1">This years membership includes the usual stuff like discounts and so on.</p>
+                    <div class="d-flex w-100 justify-content-between">
+                        <small>This membership runs from 01-01-2020 to 31-12-2020</small>
+                        <small>Price: 100,00 DKK</small>
+                    </div>
+                </div>
+                <div class="list-group-item list-group-item-action">
+                    <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1">Membership 2019</h5>
+                        <p class="m-0"><span class="badge badge-success badge-pill">Paid</span></p>
+                    </div>
+                    <p class="mb-1">This years membership includes a t-shirt and stickers.</p>
+                    <div class="d-flex w-100 justify-content-between">
+                        <small>This membership runs from 01-01-2019 to 31-12-2019</small>
+                        <small>Price: 100,00 DKK</small>
+                    </div>
+                </div>
+            </div>
+            <hr>
+        </div>
+
+        <div class="mb-5 mt-4">
+            <button type="submit" class="btn btn-success btn-block">Logout</button>
+        </div>
+
+        <div class="d-flex justify-content-md-center mt-5 mb-5">
+            <span class="text-muted font-italic">Club Manger</span>
+        </div>
+    </div>
+</div>
