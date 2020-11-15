@@ -16,7 +16,10 @@
       "i18n": {
         "sourceLocale": "en-US",
         "locales": {
-          "da": "src/locale/messages.da.xlf"
+          "da": {
+            "translation": "src/locale/messages.da.xlf",
+            "baseHref": "da" 
+          }
         }
       },
       "architect": {
@@ -71,7 +74,7 @@
               "localize": [
                 "da"
               ],
-              "main": "src/main.da.ts"
+              "main": "src/main.ts"
             }
           }
         },
