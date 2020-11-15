@@ -22,6 +22,7 @@
       </trans-unit>
       <trans-unit id="f33f14958f5494de575c492db2a381ba71656e6c" datatype="html">
         <source>Mail</source>
+        <target>Mail</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/login/member-login-page.component.html</context>
           <context context-type="linenumber">6</context>
@@ -37,7 +38,8 @@
         <note priority="1" from="description">Mail label</note>
       </trans-unit>
       <trans-unit id="897b3bba2d33454e83c17d779ffed2ffba5f8332" datatype="html">
-        <source>We&apos;ll never share your email with anyone else.</source>
+        <source>We&apos;ll never share your mail with anyone else.</source>
+        <target>Vi vil aldring dele din mail med andre.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/login/member-login-page.component.html</context>
           <context context-type="linenumber">8</context>
@@ -46,6 +48,7 @@
       </trans-unit>
       <trans-unit id="c32ef07f8803a223a83ed17024b38e8d82292407" datatype="html">
         <source>Password</source>
+        <target>Kodeord</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/login/member-login-page.component.html</context>
           <context context-type="linenumber">11</context>
@@ -58,6 +61,7 @@
       </trans-unit>
       <trans-unit id="7996757c79a1c08f21ec4be3208d6e7a8684ba4d" datatype="html">
         <source>Remember me!</source>
+        <target>Husk mig!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/login/member-login-page.component.html</context>
           <context context-type="linenumber">16</context>
@@ -66,6 +70,7 @@
       </trans-unit>
       <trans-unit id="6765b4c916060f6bc42d9bb69e80377dbcb5e4e9" datatype="html">
         <source>Login</source>
+        <target>Login</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/login/member-login-page.component.html</context>
           <context context-type="linenumber">19</context>
@@ -78,6 +83,7 @@
       </trans-unit>
       <trans-unit id="6255a8674662e55d6ccc3ad46cc1dd0dd6394d75" datatype="html">
         <source>Forgot Password?</source>
+        <target>Glemt Kodeord?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/login/member-login-page.component.html</context>
           <context context-type="linenumber">20</context>
@@ -86,6 +92,7 @@
       </trans-unit>
       <trans-unit id="1bfa2b92429da2205d9a185e49d6e57dab73822c" datatype="html">
         <source>New Member?</source>
+        <target>Nyt medlem?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/login/member-login-page.component.html</context>
           <context context-type="linenumber">23</context>
@@ -94,6 +101,7 @@
       </trans-unit>
       <trans-unit id="972da96eb0540d81c26deac1e6cc2f7504ca50c2" datatype="html">
         <source>Member Profile</source>
+        <target>Medlems Profil</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
           <context context-type="linenumber">4</context>
@@ -102,6 +110,7 @@
       </trans-unit>
       <trans-unit id="751d4e3373cc66545b8dc06c9a4568f5e8745594" datatype="html">
         <source>Here is all your member details that we have.</source>
+        <target>Her er alle dine medlems oplysninger vi har.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
           <context context-type="linenumber">5</context>
@@ -110,6 +119,7 @@
       </trans-unit>
       <trans-unit id="26c00df3071670fc140bef9cd1d3695723a80a19" datatype="html">
         <source>You are Active</source>
+        <target>Du er aktiv</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
           <context context-type="linenumber">11</context>
@@ -118,6 +128,7 @@
       </trans-unit>
       <trans-unit id="66a8345cc78236c70ae4a7485f4a84620f0e08e9" datatype="html">
         <source>You are Inactive</source>
+        <target>Du er ikke aktiv</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
           <context context-type="linenumber">16</context>
@@ -126,6 +137,7 @@
       </trans-unit>
       <trans-unit id="7d4149f2ab91824da1f7c5d66482e5202735a65c" datatype="html">
         <source>Profile details</source>
+        <target>Profil detaljer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
           <context context-type="linenumber">23</context>
@@ -134,6 +146,7 @@
       </trans-unit>
       <trans-unit id="b1fe66085337be5a0406caf56ca743af47e2f030" datatype="html">
         <source>Member ID</source>
+        <target>Medlems ID</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
           <context context-type="linenumber">26</context>
@@ -142,6 +155,7 @@
       </trans-unit>
       <trans-unit id="b760f123248930122fc7e7b6b6bf94e376e959c8" datatype="html">
         <source>Full name</source>
+        <target>Fulde navn</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
           <context context-type="linenumber">30</context>
@@ -150,6 +164,7 @@
       </trans-unit>
       <trans-unit id="6934d8edd276d59e050006fe91b695ebad0218f8" datatype="html">
         <source>Phone</source>
+        <target>Telefon</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
           <context context-type="linenumber">40</context>
@@ -158,6 +173,7 @@
       </trans-unit>
       <trans-unit id="d877a4c8b79001fec86aa418c7b6662e4014aefb" datatype="html">
         <source>First registered</source>
+        <target>Først registreret</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
           <context context-type="linenumber">46</context>
@@ -166,6 +182,7 @@
       </trans-unit>
       <trans-unit id="4dfbe8e9e0b5fd0f16d3d888ba2359495c7f996f" datatype="html">
         <source>Date of birth</source>
+        <target>Fødselsdag</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
           <context context-type="linenumber">50</context>
@@ -174,6 +191,7 @@
       </trans-unit>
       <trans-unit id="ca3d8fdcc60838d7751d04b0d13860d39ad72dd3" datatype="html">
         <source>Edit details</source>
+        <target>Ret oplysninger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
           <context context-type="linenumber">56</context>
@@ -182,6 +200,7 @@
       </trans-unit>
       <trans-unit id="1a8fc5289cfe708b5d940d542280ca2d1497133b" datatype="html">
         <source>Change Mail</source>
+        <target>Skift Mail</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
           <context context-type="linenumber">57</context>
@@ -190,6 +209,7 @@
       </trans-unit>
       <trans-unit id="5edf054f14aa57bc25a28cb7db01956fee53dac8" datatype="html">
         <source>Change Password</source>
+        <target>Skift Kodeord</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
           <context context-type="linenumber">58</context>
@@ -198,6 +218,7 @@
       </trans-unit>
       <trans-unit id="7fbdd0c80c77e60615b5dcf6145becf49b2cb099" datatype="html">
         <source>Membership log</source>
+        <target>Medlems log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
           <context context-type="linenumber">66</context>
@@ -206,6 +227,7 @@
       </trans-unit>
       <trans-unit id="bb694b49d408265c91c62799c2b3a7e3151c824d" datatype="html">
         <source>Logout</source>
+        <target>Logud</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
           <context context-type="linenumber">118</context>
@@ -214,6 +236,7 @@
       </trans-unit>
       <trans-unit id="c8f0af331f13cd58311dfb3c4bc2a9ea7a9dc2de" datatype="html">
         <source>Admin Login</source>
+        <target>Admin Login</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pages/user/login/user-login-page.component.html</context>
           <context context-type="linenumber">3</context>
