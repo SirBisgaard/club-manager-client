@@ -13,6 +13,12 @@
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
+      "i18n": {
+        "sourceLocale": "en-US",
+        "locales": {
+          "da": "src/locale/messages.da.xlf"
+        }
+      },
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
@@ -22,6 +28,7 @@
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
+            "localize": true,
             "aot": true,
             "assets": [
               "src/favicon.ico",
@@ -60,6 +67,12 @@
                   "maximumError": "10kb"
                 }
               ]
+            },
+            "da": {
+              "localize": [
+                "da"
+              ],
+              "main": "src/main.da.ts"
             }
           }
         },
@@ -69,6 +82,9 @@
             "browserTarget": "club-manager-client:build"
           },
           "configurations": {
+            "da": {
+              "browserTarget": "club-manager-client:build:da"
+            },
             "production": {
               "browserTarget": "club-manager-client:build:production"
             }
@@ -123,6 +139,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "club-manager-client"
 }

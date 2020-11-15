@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="1b9594aec50f682cfe82cb7e89db42a687e908b0" datatype="html">
+        <source>Member Login</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/login/member-login-page.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <note priority="1" from="description">Member login title</note>
+      </trans-unit>
+      <trans-unit id="58dcb3c7db31b43b18c6138ad87a821967a25119" datatype="html">
+        <source>See all your member data, at a glance.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/login/member-login-page.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">Member login sub title</note>
+      </trans-unit>
+      <trans-unit id="f33f14958f5494de575c492db2a381ba71656e6c" datatype="html">
+        <source>Mail</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/login/member-login-page.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/user/login/user-login-page.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">Mail label</note>
+      </trans-unit>
+      <trans-unit id="897b3bba2d33454e83c17d779ffed2ffba5f8332" datatype="html">
+        <source>We&apos;ll never share your email with anyone else.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/login/member-login-page.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <note priority="1" from="description">Email stub text</note>
+      </trans-unit>
+      <trans-unit id="c32ef07f8803a223a83ed17024b38e8d82292407" datatype="html">
+        <source>Password</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/login/member-login-page.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/user/login/user-login-page.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <note priority="1" from="description">Password label</note>
+      </trans-unit>
+      <trans-unit id="7996757c79a1c08f21ec4be3208d6e7a8684ba4d" datatype="html">
+        <source>Remember me!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/login/member-login-page.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">Remember me label</note>
+      </trans-unit>
+      <trans-unit id="6765b4c916060f6bc42d9bb69e80377dbcb5e4e9" datatype="html">
+        <source>Login</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/login/member-login-page.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/user/login/user-login-page.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <note priority="1" from="description">Login button</note>
+      </trans-unit>
+      <trans-unit id="6255a8674662e55d6ccc3ad46cc1dd0dd6394d75" datatype="html">
+        <source>Forgot Password?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/login/member-login-page.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">Forgot password button</note>
+      </trans-unit>
+      <trans-unit id="1bfa2b92429da2205d9a185e49d6e57dab73822c" datatype="html">
+        <source>New Member?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/login/member-login-page.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <note priority="1" from="description">New member button</note>
+      </trans-unit>
+      <trans-unit id="972da96eb0540d81c26deac1e6cc2f7504ca50c2" datatype="html">
+        <source>Member Profile</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">Member profile tile</note>
+      </trans-unit>
+      <trans-unit id="751d4e3373cc66545b8dc06c9a4568f5e8745594" datatype="html">
+        <source>Here is all your member details that we have.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">Member profile subtitle</note>
+      </trans-unit>
+      <trans-unit id="26c00df3071670fc140bef9cd1d3695723a80a19" datatype="html">
+        <source>You are Active</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <note priority="1" from="description">You are active label</note>
+      </trans-unit>
+      <trans-unit id="66a8345cc78236c70ae4a7485f4a84620f0e08e9" datatype="html">
+        <source>You are Inactive</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">You are inactive label</note>
+      </trans-unit>
+      <trans-unit id="7d4149f2ab91824da1f7c5d66482e5202735a65c" datatype="html">
+        <source>Profile details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <note priority="1" from="description">Profile details title</note>
+      </trans-unit>
+      <trans-unit id="b1fe66085337be5a0406caf56ca743af47e2f030" datatype="html">
+        <source>Member ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <note priority="1" from="description">Member ID label</note>
+      </trans-unit>
+      <trans-unit id="b760f123248930122fc7e7b6b6bf94e376e959c8" datatype="html">
+        <source>Full name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <note priority="1" from="description">Full name label</note>
+      </trans-unit>
+      <trans-unit id="6934d8edd276d59e050006fe91b695ebad0218f8" datatype="html">
+        <source>Phone</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <note priority="1" from="description">Phone label</note>
+      </trans-unit>
+      <trans-unit id="d877a4c8b79001fec86aa418c7b6662e4014aefb" datatype="html">
+        <source>First registered</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <note priority="1" from="description">First registered label</note>
+      </trans-unit>
+      <trans-unit id="4dfbe8e9e0b5fd0f16d3d888ba2359495c7f996f" datatype="html">
+        <source>Date of birth</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+        <note priority="1" from="description">Date of birth label</note>
+      </trans-unit>
+      <trans-unit id="ca3d8fdcc60838d7751d04b0d13860d39ad72dd3" datatype="html">
+        <source>Edit details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+        <note priority="1" from="description">Edit details button</note>
+      </trans-unit>
+      <trans-unit id="1a8fc5289cfe708b5d940d542280ca2d1497133b" datatype="html">
+        <source>Change Mail</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+        <note priority="1" from="description">Change mail button</note>
+      </trans-unit>
+      <trans-unit id="5edf054f14aa57bc25a28cb7db01956fee53dac8" datatype="html">
+        <source>Change Password</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+        <note priority="1" from="description">Change password button</note>
+      </trans-unit>
+      <trans-unit id="7fbdd0c80c77e60615b5dcf6145becf49b2cb099" datatype="html">
+        <source>Membership log</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+        <note priority="1" from="description">Membership log title</note>
+      </trans-unit>
+      <trans-unit id="bb694b49d408265c91c62799c2b3a7e3151c824d" datatype="html">
+        <source>Logout</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/member/home/member-home-page.component.html</context>
+          <context context-type="linenumber">118</context>
+        </context-group>
+        <note priority="1" from="description">Logout button</note>
+      </trans-unit>
+      <trans-unit id="c8f0af331f13cd58311dfb3c4bc2a9ea7a9dc2de" datatype="html">
+        <source>Admin Login</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/user/login/user-login-page.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <note priority="1" from="description">Admin Login Title</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
